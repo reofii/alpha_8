@@ -25,7 +25,7 @@ jobs:
 
 # Orchestrate our job run sequence
 workflows:
-  vb04:
+  vb05:
     jobs:
       - gas1
       - gas2
